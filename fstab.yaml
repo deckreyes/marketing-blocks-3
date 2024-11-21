@@ -7,7 +7,7 @@
 
 # Use the following for Doc-based authoring. Make sure to change it to your SharePoint or Google Drive url.
  mountpoints:
- /: https://adobe.sharepoint.com/:f:/r/sites/AdobeDeveloperXSCBootcamps/Shared%20Documents/Marketing
+ /: https://adobe.sharepoint.com/:f:/r/sites/AdobeDeveloperXSCBootcamps/Shared%20Documents/Marketing?csf=1&web=1&e=bA9vS1
 
 folders:
   /products/plan/: /products/plan/default
